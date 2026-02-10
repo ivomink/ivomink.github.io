@@ -9,6 +9,7 @@ I am a full-time Musician and an amateur coder, Going for C# and Lua. This site 
 ## Where to contact me?
 
 for any inquiries, contact me on discord @Ivomink or @Ivosln
+
 -# Due to discord's recent problems i'll also cite here my Stoat account once i get one.
 
 [Steam](https://steamcommunity.com/id/ivomink/)
