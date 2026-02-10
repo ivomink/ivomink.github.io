@@ -1,5 +1,5 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: riggraz/no-style-please
 plugins:
-- jekyll-remote-theme
+- no-style-please
 title: Ivomink's page
 description: feel free to contact me on discord at @ivomink or @ivosln for any type of inquiries.
