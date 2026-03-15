@@ -1,6 +1,9 @@
 ![image](mickivoryplushiebig.png)
 
-[Get EndeavourOS](https://endeavouros.com/) [^1]
+# [Get EndeavourOS](https://endeavouros.com/) [^1]
+
+![image](eos-icon.webp)
+
 
 # What am i? who am i? what am i?
 
